@@ -66,7 +66,7 @@ class Translation(object):
     )
     TECH_VJ_HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('🔥 UHD NETWORK', url='https://t.me/UHD_NETWORK')
+            InlineKeyboardButton('🔥 ᴜʜᴅ ɴᴇᴛᴡᴏʀᴋ', url='https://t.me/UHD_NETWORK')
         ], [
             InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+fx7ngJZDyFlhNTM1'),
             InlineKeyboardButton('❤️ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/UHD_Bots')
@@ -79,7 +79,7 @@ class Translation(object):
     )
     TECH_VJ_ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('🔥 UHD NETWORK', url='https://t.me/UHD_NETWORK')
+            InlineKeyboardButton('🔥 ᴜʜᴅ ɴᴇᴛᴡᴏʀᴋ', url='https://t.me/UHD_NETWORK')
         ], [
             InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+fx7ngJZDyFlhNTM1'),
             InlineKeyboardButton('❤️ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/UHD_Bots')
