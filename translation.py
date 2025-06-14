@@ -55,15 +55,15 @@ class Translation(object):
     
     TECH_VJ_START_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('🗿 ᴜʜᴅ ɴᴇᴛᴡᴏʀᴋ', url='https://t.me/UHD_NETWORK')
         ], [
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+fx7ngJZDyFlhNTM1'),
+            InlineKeyboardButton('❤️ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/UHD_Bots')
         ], [
             InlineKeyboardButton('❓ ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('🤖 ᴀʙᴏᴜᴛ', callback_data='about')
         ], [
-            InlineKeyboardButton('🇮🇳 ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ 💖', url='https://instagram.com/tech.vj')
+            InlineKeyboardButton('💝 ᴅᴏɴᴀᴛᴇ ᴜs 💖', url='https://graph.org/Donate-06-01')
         ]]
     )
     TECH_VJ_HELP_BUTTONS = InlineKeyboardMarkup(
