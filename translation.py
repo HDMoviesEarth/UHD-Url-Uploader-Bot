@@ -10,7 +10,7 @@ class Translation(object):
 
 ɢɪᴠᴇ ᴍᴇ ᴀɴʏ ʟɪɴᴋ ɪ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪɴᴛᴏ ғɪʟᴇ ᴏʀ ᴠɪᴅᴇᴏ ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ
 
-ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/kingvj01">ᴛᴇᴄʜ ᴠᴊ</a></b>
+ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/ANKAN_Contact_BOT">ᴀɴᴋᴀɴ</a></b>
 """
 
     TECH_VJ_HELP_TEXT = """
@@ -26,7 +26,7 @@ class Translation(object):
 
 🔺 ʙʀᴏᴀᴅᴄᴀsᴛ ᴍᴇssᴀɢᴇ ʙʏ /broadcast ᴄᴏᴍᴍᴀɴᴅ
 
-💢 ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ :-
+☺️ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ :-
 
 🔻 ʜᴏᴡ ᴛᴏ ᴜᴘʟᴏᴀᴅ ʏᴏᴜᴛᴜʙᴇ ʟɪɴᴋs <a href="https://t.me/VJCode/11">ᴛᴜᴛᴏʀɪᴀʟ ᴠɪᴅᴇᴏ</a>
 
@@ -38,17 +38,17 @@ class Translation(object):
 """
 
     TECH_VJ_ABOUT_TEXT = """
-<b>♻️ ᴍʏ ɴᴀᴍᴇ : ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
+<b>♻️ ᴍʏ ɴᴀᴍᴇ : ᴜнᴅ ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
 
-🌀 ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/vj_botz">ᴠᴊ ʙᴏᴛᴢ</a>
+🗿 ᴄʜᴀɴɴᴇʟ : <a href="https://t.me/UHD_Bots">ᴜʜᴅ ʙᴏᴛs™</a>
 
-🌺 ʜᴇʀᴏᴋᴜ : <a href="https://heroku.com/">ʜᴇʀᴏᴋᴜ</a>
+🌐 Sᴇʀᴠᴇʀ : <a href="https://heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 
 📑 ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3.10.5</a>
 
-🇵🇲 ғʀᴀᴍᴇᴡᴏʀᴋ : <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ 2.0.30</a>
+📚 Lɪʙʀᴀʀʏ : <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ 2.0.30</a>
 
-👲 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/kingvj01">ᴛᴇᴄʜ ᴠᴊ</a></b>
+🧑‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/ANKAN_Contact_BOT">ᴀɴᴋᴀɴ</a></b>
 
 """
 
@@ -68,28 +68,28 @@ class Translation(object):
     )
     TECH_VJ_HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('🔥 UHD NETWORK', url='https://t.me/UHD_NETWORK')
         ], [
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+fx7ngJZDyFlhNTM1'),
+            InlineKeyboardButton('❤️ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/UHD_Bots')
         ], [
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='home'),
-            InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('💖 ᴀʙᴏᴜᴛ', callback_data='about')
         ], [
-            InlineKeyboardButton('📛 ᴄʟᴏsᴇ', callback_data='close')
+            InlineKeyboardButton('❌ ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
     TECH_VJ_ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+            InlineKeyboardButton('🔥 UHD NETWORK', url='https://t.me/UHD_NETWORK')
         ], [
-            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
-            InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/vj_botz')
+            InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/+fx7ngJZDyFlhNTM1'),
+            InlineKeyboardButton('❤️ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/UHD_Bots')
         ], [
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='home'),
-            InlineKeyboardButton('❓ ʜᴇʟᴘ', callback_data='help')
+            InlineKeyboardButton('💖 ᴀʙᴏᴜᴛ', callback_data='about')
         ], [
-            InlineKeyboardButton('📛 ᴄʟᴏsᴇ', callback_data='close')
+            InlineKeyboardButton('❌ ᴄʟᴏsᴇ', callback_data='close')
         ]]
     )
     
@@ -101,8 +101,8 @@ class Translation(object):
     TECH_VJ_DOWNLOAD_START = "<b>📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ...</b>"
     TECH_VJ_UPLOAD_START = "<b>📤 ᴜᴘʟᴏᴀᴅɪɴɢ...</b>"
     TECH_VJ_RCHD_TG_API_LIMIT = "<b>ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} ꜱᴇᴄᴏɴᴅꜱ.\nᴅᴇᴛᴇᴄᴛᴇᴅ ғɪʟᴇ ꜱɪᴢᴇ: {}\nꜱᴏʀʀʏ. ʙᴜᴛ, ɪ ᴄᴀɴɴᴏᴛ ᴜᴘʟᴏᴀᴅ ғɪʟᴇꜱ ɢʀᴇᴀᴛᴇʀ ᴛʜᴀɴ 𝟸GB ᴅᴜᴇ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ API ʟɪᴍɪᴛᴀᴛɪᴏɴꜱ.</b>"
-    TECH_VJ_AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>ᴛʜᴀɴᴋꜱ ғᴏʀ ᴜꜱɪɴɢ ᴍᴇ\n\nJᴏɪɴ : @VJ_BOTZ</b>"
-    TECH_VJ_AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "<b>ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} ꜱᴇᴄᴏɴᴅꜱ.\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} ꜱᴇᴄᴏɴᴅꜱ.\n\n@VJ_BOTZ</b>"
+    TECH_VJ_AFTER_SUCCESSFUL_UPLOAD_MSG = "<b>ᴛʜᴀɴᴋꜱ ғᴏʀ ᴜꜱɪɴɢ ᴍᴇ\n\nJᴏɪɴ : @UHD_Bots</b>"
+    TECH_VJ_AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "<b>ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} ꜱᴇᴄᴏɴᴅꜱ.\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} ꜱᴇᴄᴏɴᴅꜱ.\n\n@UHD_Bots</b>"
     TECH_VJ_SAVED_CUSTOM_THUMB_NAIL = "<b>ᴄᴜꜱᴛᴏᴍ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴀᴠᴇᴅ. Tʜɪꜱ ɪᴍᴀɢᴇ ᴡɪʟʟ ʙᴇ ᴜꜱᴇᴅ ɪɴ ᴛʜᴇ ᴠɪᴅᴇᴏ / ғɪʟᴇ.</b>"
     TECH_VJ_DEL_ETED_CUSTOM_THUMB_NAIL = "<b>✅ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴄʟᴇᴀʀᴇᴅ ꜱᴜᴄᴄᴇꜱғᴜʟʟʏ.</b>"
     TECH_VJ_CUSTOM_CAPTION_UL_FILE = "<b>{}</b>"
