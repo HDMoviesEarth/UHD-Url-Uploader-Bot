@@ -28,7 +28,6 @@ class Translation(object):
 
 ☺️ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ :-
 
-
 ➻ sᴇɴᴅ ᴍᴇ ᴛʜᴇ ɢᴏᴏɢʟᴇ ᴅʀɪᴠᴇ | ʏᴛᴅʟ | ᴅɪʀᴇᴄᴛ ʟɪɴᴋs.
 
 ➻ sᴇʟᴇᴄᴛ ᴛʜᴇ ᴅᴇsɪʀᴇᴅ ᴏᴘᴛɪᴏɴ.
@@ -43,9 +42,9 @@ class Translation(object):
 
 🌐 Sᴇʀᴠᴇʀ : <a href="https://heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 
-📑 ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3.10.5</a>
+📑 ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.java.com">ᴊᴀᴠᴀ</a>
 
-📚 Lɪʙʀᴀʀʏ : <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ 2.0.30</a>
+📚 Lɪʙʀᴀʀʏ : <a href="https://docs.pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
 
 🧑‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href="https://t.me/ANKAN_Contact_BOT">ᴀɴᴋᴀɴ</a></b>
 
