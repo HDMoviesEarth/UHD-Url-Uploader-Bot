@@ -87,7 +87,7 @@ class Translation(object):
             InlineKeyboardButton('❤️ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/UHD_Bots')
         ], [
             InlineKeyboardButton('🏠 ʜᴏᴍᴇ', callback_data='home'),
-            InlineKeyboardButton('💖 ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('💖 ᴀʙᴏᴜᴛ', callback_data='help')
         ], [
             InlineKeyboardButton('❌ ᴄʟᴏsᴇ', callback_data='close')
         ]]
